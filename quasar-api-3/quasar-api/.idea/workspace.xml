@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff6d0d41-bea5-4752-b4aa-9b356d9eb247" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/training/catalyte/sportsapparel/services/CustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/training/catalyte/sportsapparel/services/CustomerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/training/catalyte/sportsapparel/services/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/training/catalyte/sportsapparel/services/ProductServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="225" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1o4mRPjQd3ne9T47GJAlkhRBzZ8" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../quasar-images-microservice" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ApplicationRunner">
+    <configuration name="ApplicationRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.training.catalyte.sportsapparel.ApplicationRunner" />
+      <module name="sports-apparel-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.training.catalyte.sportsapparel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sports-apparel-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.training.catalyte.sportsapparel.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.training.catalyte.sportsapparel.controllers" />
+      <option name="MAIN_CLASS_NAME" value="io.training.catalyte.sportsapparel.controllers.CustomerControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sports-apparel-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.training.catalyte.sportsapparel.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.training.catalyte.sportsapparel.services" />
+      <option name="MAIN_CLASS_NAME" value="io.training.catalyte.sportsapparel.services.CustomerServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sports-apparel-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.training.catalyte.sportsapparel.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.training.catalyte.sportsapparel.controllers" />
+      <option name="MAIN_CLASS_NAME" value="io.training.catalyte.sportsapparel.controllers.LoginIntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WishlistServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sports-apparel-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.training.catalyte.sportsapparel.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.training.catalyte.sportsapparel.services" />
+      <option name="MAIN_CLASS_NAME" value="io.training.catalyte.sportsapparel.services.WishlistServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ApplicationRunner" />
+        <item itemvalue="JUnit.CustomerServiceImplTest" />
+        <item itemvalue="JUnit.CustomerControllerTest" />
+        <item itemvalue="JUnit.WishlistServiceImplTest" />
+        <item itemvalue="JUnit.LoginIntegrationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff6d0d41-bea5-4752-b4aa-9b356d9eb247" name="Default Changelist" comment="" />
+      <created>1612554227686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612554227686</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sports_apparel_api$LoginIntegrationTest.ic" NAME="LoginIntegrationTest Coverage Results" MODIFIED="1612554440736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>io.training.catalyte.sportsapparel.controllers.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/sports_apparel_api$WishlistServiceImplTest.ic" NAME="WishlistServiceImplTest Coverage Results" MODIFIED="1612554493798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>io.training.catalyte.sportsapparel.services.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/sports_apparel_api$CustomerControllerTest.ic" NAME="CustomerControllerTest Coverage Results" MODIFIED="1612555919831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>io.training.catalyte.sportsapparel.controllers.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/sports_apparel_api$CustomerServiceImplTest.ic" NAME="CustomerServiceImplTest Coverage Results" MODIFIED="1612899114236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>io.training.catalyte.sportsapparel.services.*</FILTER>
+    </SUITE>
+  </component>
+</project>

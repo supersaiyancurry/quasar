@@ -1,0 +1,56 @@
+body {
+    background-color: #F3E0DC;
+}
+
+.jumbotron {
+    background-color: #D4A59A;
+    margin: auto;
+    margin-top: 95px;
+    border-radius: 10px;
+    max-width: 700px;
+}
+
+.title {
+    margin-top: -40px;
+    margin-bottom: 40px;
+    font-size: 35px;
+    text-align: center;
+    color: black;
+}
+
+.link {
+    color: #5C2018;
+    padding-left: 0.3rem;
+    font-weight: 500;
+}
+
+.error {
+    color: red;
+    margin-top: -35px;
+    margin-left: 12.4rem;
+    margin-bottom: 10px;
+    position: absolute;
+}
+
+.code {
+    margin-top: -1.5%;
+    position: absolute;
+    justify-content: center;
+    width: 100%;
+}
+
+.login {
+    margin-top: .8%;
+    position: absolute;
+    justify-content: center;
+    width: 100%;
+    font-size: 2em;
+    font-weight: 500;
+    color: #4285F4;
+}
+
+.loading {
+    font-size: 30px;
+    font-weight: bold;
+    position: relative
+}

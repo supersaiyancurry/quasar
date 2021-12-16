@@ -1,0 +1,47 @@
+.title {
+    text-align: center;
+    font-weight: 500;
+    font-size: 50px;
+}
+
+.breadcrumb {
+    background-color: #5C2018;
+    color: white;
+    height: 40px;
+    margin: auto;
+    width: 97%;
+}
+
+.link {
+    color: white;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color:  #4285F4;
+}
+
+.home {
+    margin-left: 25px;
+    margin-top: 8px;
+    color: white;
+    text-transform: capitalize;
+}
+
+.item {
+    margin-top: 8px;
+    color: white;
+    text-transform: capitalize;
+}
+
+.empty {
+    color: #4285F4;
+    font-size: 40px;
+}
+
+.loading {
+    font-size: 30px;
+    font-weight: bold;
+}

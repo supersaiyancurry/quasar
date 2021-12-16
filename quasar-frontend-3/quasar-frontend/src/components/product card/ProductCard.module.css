@@ -1,0 +1,42 @@
+.image {
+  max-height: 30vh;
+  width: auto;
+  border: 2px solid black;
+}
+
+.card {
+  background-color: #5C2018;
+  color: white;
+  height: 550px;
+}
+
+.category-tag {
+  color: #4285F4;
+}
+
+.button:hover {
+  text-decoration: underline;
+}
+
+.button {
+  color: #4285F4;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.wishlist-btn {
+  background-color: #4285F4;
+  color: white;
+}
+
+.description {
+  min-height: 60px;
+}
+
+.cartImageProduct {
+  position: absolute;
+  width: 15%;
+  left: 43%;
+  top: 91%;
+  visibility: visible;
+}

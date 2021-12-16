@@ -1,0 +1,90 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`header component matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="login"
+  >
+    <p>
+      Welcome to the login page!
+    </p>
+  </div>
+  <div>
+    <div
+      class="jumbotron jumbotron"
+    >
+      <form>
+        <h2
+          class="title"
+        >
+          Login
+        </h2>
+        <div />
+        <div
+          class="form-group row"
+        >
+          <label
+            class="col-sm-3 col-form-label label"
+            for="Email"
+          >
+            Email
+          </label>
+          <div
+            class="col-sm-9"
+          >
+            <input
+              class="dropdown"
+              id="Email"
+              placeholder="Email"
+              type="email"
+              value=""
+            />
+          </div>
+        </div>
+        <div
+          class="form-group row"
+        >
+          <label
+            class="col-sm-3 col-form-label label"
+            for="Password"
+          >
+            Password
+          </label>
+          <div
+            class="col-sm-9"
+          >
+            <input
+              class="dropdown"
+              id="Password"
+              placeholder="Password"
+              type="password"
+              value=""
+            />
+          </div>
+        </div>
+        <div
+          class="container text-center"
+        >
+          <button
+            class="undefined btn"
+          >
+            Submit
+          </button>
+        </div>
+        <div
+          class="mt-3"
+        >
+          New customer?
+          <a
+            class="link"
+            href="/signup"
+            id="register"
+          >
+            Sign up here!
+          </a>
+        </div>
+      </form>
+    </div>
+  </div>
+</DocumentFragment>
+`;

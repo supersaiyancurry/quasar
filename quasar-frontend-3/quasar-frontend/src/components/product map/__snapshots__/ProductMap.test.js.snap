@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`product card component matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <nav
+      aria-label="breadcrumb"
+    >
+      <ol
+        class="breadcrumb breadcrumb"
+      >
+        <li
+          class="breadcrumb-item home"
+        >
+          <a
+            class="link"
+            href="/"
+          >
+            Home
+          </a>
+        </li>
+      </ol>
+    </nav>
+    <h3
+      class="title"
+    >
+      Product Results
+    </h3>
+    <div
+      class="loading"
+    >
+      <p
+        class="text-warning"
+      >
+        One moment...
+      </p>
+    </div>
+    <div
+      class="row row-cols-1 row-cols-lg-2 row-cols-xl-3 m-4"
+    />
+  </div>
+</DocumentFragment>
+`;

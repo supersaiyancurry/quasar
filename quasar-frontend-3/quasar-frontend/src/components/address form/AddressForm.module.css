@@ -1,0 +1,11 @@
+.title {
+  font-size: 35px;
+  text-align: center;
+  color: black;
+}
+
+.form-container {
+  border: 1px solid #BC4639;
+  border-radius: 5px;
+  min-height: 440px;
+}
